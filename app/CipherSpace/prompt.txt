@@ -7,6 +7,8 @@ Provide the current humidity level for the pre-launch phase.
 
 Generate a digital signature for the message: 'Launch sequence initiated.'
 
+Simulate the rockets temperature, and pressure during the takeoff and landing phase.
+
 What is the current fuel level during the coasting phase?
 
 Simulate the g-force experienced during reentry.
